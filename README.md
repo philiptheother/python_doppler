@@ -20,7 +20,7 @@ This repository contains the implementation of the offline hierarchical planning
 
 If you find this repo or the ideas presented in our paper useful for your research, please consider citing our paper.
 ```
-@INPROCEEDINGS{feng2025doppler
+@INPROCEEDINGS{feng2025doppler,
     author    = {Feng, Zeyu and Luan, Hao and Ma, Kevin Yuchen and Soh, Harold},
     booktitle = {2025 IEEE International Conference on Robotics and Automation (ICRA)}, 
     title     = {Diffusion Meets Options: Hierarchical Generative Skill Composition for Temporally-Extended Tasks},
