@@ -12,7 +12,7 @@
 of Computing, National University of Singapore,
 <sup>2</sup>Smart Systems Institute, National University of Singapore
 
-
+https://github.com/user-attachments/assets/acad3926-54ca-440d-9fe7-34c2e8072b95
 
 This repository contains the implementation of the offline hierarchical planning method under LTL constraints proposed in the ICRA 2025 paper [Diffusion Meets Options: Hierarchical Generative Skill Composition for Temporally-Extended Tasks](https://arxiv.org/abs/2410.02389).
 
