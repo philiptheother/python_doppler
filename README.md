@@ -42,6 +42,8 @@ Safe and successful deployment of robots requires not only the ability to genera
 ## 🔨 Usage
 For training and testing on `Maze2d` and `PushT` tasks, please see specific instructions in the folders [Maze2d](./maze2d) and [PushT](./pusht), respectively.
 
+We have released pre-trained diffusion models and the critic neural networks for both tasks. You can download them by clicking here: [Pretrained_Models_GoogleDrive](https://drive.google.com/drive/folders/17nuSgXB0Uscs_iBgzaNrlRcGhIfm9evK).
+
 In order to download our augmented dataset of trajectories in `PushT` task, go to: [PushT_GoogleDrive](https://drive.google.com/file/d/1jRfJtiBL-cYcFbmQczzVGXK8THSp--en/view?usp=sharing).
 
 
